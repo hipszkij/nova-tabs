@@ -174,6 +174,16 @@ export default {
     },
 
     /**
+     * Get the resource ID we pass on to the field component
+     *
+     * @param field
+     * @returns {Number|String|*}
+     */
+    getResourceName() {
+      return this.resourceName;
+    },
+
+    /**
      * Handle tabs being clicked
      *
      * @param tab

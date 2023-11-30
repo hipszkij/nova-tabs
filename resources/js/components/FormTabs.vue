@@ -84,7 +84,7 @@
                     :is="getComponentName(field)"
                     :errors="validationErrors"
                     :resource-id="getResourceId(field)"
-                    :resource-name="field.resourceName ?? resourceName"
+                    :resource-name="field.from.resourceName"
                     :field="field"
                     :via-resource="field.from.viaResource"
                     :via-resource-id="field.from.viaResourceId"
