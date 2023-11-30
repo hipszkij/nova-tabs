@@ -1,7 +1,7 @@
 {
     "name": "hipszkij/nova-tabs",
     "description": "Laravel Nova - Tabs.",
-    "version": "v2.2.4",
+    "version": "v2.2.5",
     "keywords": [
         "laravel",
         "nova"
