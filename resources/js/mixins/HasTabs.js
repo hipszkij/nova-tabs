@@ -46,7 +46,7 @@ export default {
       activeTab: '',
       selectedTab: {},
       darkModeClass: '',
-      relationFormUniqueId: '',
+      relationFormUniqueId: uid(),
       errors: this.validationErrors
     };
   },

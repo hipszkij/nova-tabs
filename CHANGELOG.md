@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.2.4 - 2023-11-30
+- Fix issue with slug field
+
 ## 2.0.7 - 2022-05-16
 - Fixed that primary color is used if none is specified
 

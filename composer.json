@@ -1,6 +1,7 @@
 {
     "name": "eminiarts/nova-tabs",
     "description": "Laravel Nova - Tabs.",
+    "version": "v2.2.4",
     "keywords": [
         "laravel",
         "nova"
